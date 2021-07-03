@@ -1,5 +1,5 @@
 # NewsApp-
-MVVM, no Storyboard, Decodable
+MVVM, no Storyboard, Decodable 
 
 ## Screenshots
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-03 at 22 49 46](https://user-images.githubusercontent.com/64838767/124354873-a6924e80-dc51-11eb-98db-4f902de26c61.png)
